@@ -1,2 +1,3 @@
 # mihomo_rules
-Public Mihomo/Clash rule-set files for remote loading
+
+Public rule-set files for Mihomo/Clash/Surge remote loading.
